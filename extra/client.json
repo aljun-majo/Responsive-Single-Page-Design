@@ -1,0 +1,37 @@
+{
+  "clients": [
+   
+    {
+      "client_name": "John Doe",
+      "nick_name": "John",
+      "image_avatar": "testimonial-avatar",
+      "position": "CEO",
+      "site": "www.cleintsitehere.com",
+      "client_say": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi in massa consequat, tincidunt orci sit amet, tristique velit. Nullam euismod enim neque, sit amet laoreet mauris tincidunt at."
+    },
+    {
+      "client_name": "Jane Doe",
+      "nick_name": "Jane",
+      "image_avatar": "testimonial-avatar",
+      "position": "Founder",
+      "site": "www.cleintsitehere.com",
+      "client_say": "Praesent diam massa, tincidunt ornare nulla nec, posuere tristique augue. Ut mattis ante eu orci aliquet commodo non ut nisl. Donec porttitor vulputate risus a congue."
+    },
+    {
+      "client_name": "Jaun Pedro",
+      "nick_name": "Juan",
+      "image_avatar": "testimonial-avatar",
+      "position": "CEO/Founder",
+      "site": "www.cleintsitehere.com",
+      "client_say": "Cras fermentum, nulla non aliquam finibus, elit lacus finibus nibh, vel eleifend massa enim dignissim justo. Etiam erat ipsum, varius at tempor vitae, dictum quis nulla."
+    },
+     {
+      "client_name": "Baymax B",
+      "nick_name": "Baymax",
+      "image_avatar": "testimonial-avatar",
+      "position": "Wisdom Lover",
+      "site": "www.cleintsitehere.com",
+      "client_say": "In dictum dolor id massa gravida, non faucibus nulla mollis. Praesent sagittis quis magna vitae gravida. Aenean porttitor augue et turpis vulputate cursus."
+    }     
+  ]
+}

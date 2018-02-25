@@ -1,0 +1,10 @@
+.DS_Store
+node_modules
+package-lock.json
+.tmp
+images/**
+slides/**
+builds/**/images/*
+.tmp
+.sass-cache
+bower_components

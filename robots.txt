@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /javascript/
+Disallow: /images/
+Disallow: /extra/
+Disallow: /working/
+Disallow: /private/
+Disallow: /fonts/
+Disallow: /script/
+Disallow: /include/
+Disallow: /database/
+Disallow: /public/
+Disallow: /developement/
+Disallow: /deployment/
+Disallow: /task/
