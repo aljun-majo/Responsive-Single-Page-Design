@@ -2,7 +2,7 @@
 Design Name: Responsive Single Page with Bootsrap and Parallax
 Site URI: thegoodartisan.com
 Author: aljun
-Description: A Design Mojo Demo Web HTML5, CSS3, JavaScript, JQuery, Bootsrap v3, Tweenmax, fanxybox, mustache isotope, Personal Project only, Practice Coding, My Mojo My Passion.
+Description: A Design Mojo Demo Web HTML5, CSS3, JavaScript, JQuery, Bootsrap v3, Tweenmax, fancybox, mustache isotope, Personal Project only, Practice Coding, My Mojo My Passion.
 repo: "https://github.com/jun20/single-web-page-design-feb-01.git"
 Date: 2017
 Version: 0.0.1
