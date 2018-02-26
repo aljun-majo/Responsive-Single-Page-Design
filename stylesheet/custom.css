@@ -464,7 +464,7 @@ and (max-width: 767px) {
 and (max-width: 767px) {
 
 	#about .right-box-wrapper {
-		background: url(../images/tablet.jpg) no-repeat center center fixed;
+		background: url(../images/about-bg.jpg) no-repeat center center fixed;
 		margin-right: 0px;					
 		}
 
