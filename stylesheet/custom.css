@@ -444,7 +444,7 @@ and (max-width: 767px) {
   justify-content: center;	
 }
 #about .right-box-wrapper {
-	background: url(../images/tablet.jpg) no-repeat center left fixed;	
+	background: url(../images/about-bg.jpg) no-repeat center left fixed;	
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -664,7 +664,7 @@ and (max-width: 767px) {
 /* testimonials */
 #testimonials {
 	/*background: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(../images/big_ideas.jpg); */
- 	background: url(../images/big_ideas.jpg) no-repeat center center fixed;
+ 	background: url(../images/testimonial-bg.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -823,7 +823,7 @@ and (max-width: 767px) {
 	padding-left: 0;
 }
 #hireme article {		
-	background: url(../images/designers_devs2.jpg) no-repeat center center fixed;
+	background: url(../images/contact-bg.jpg) no-repeat center center fixed;
 	padding-top: 35px;
 	padding-bottom: 35px;	
 }

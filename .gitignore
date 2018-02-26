@@ -1,8 +1,7 @@
 .DS_Store
 node_modules
 .tmp
-# my images assets are not included #
-images/**
+# images/**
 slides/**
 builds/**/images/*
 .tmp
